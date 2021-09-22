@@ -1,3 +1,7 @@
+----
+2021/09/22
+Getting through GitHub
+----
 2021/09/22 Getting through GitHub
 
 _Life of a Student_
