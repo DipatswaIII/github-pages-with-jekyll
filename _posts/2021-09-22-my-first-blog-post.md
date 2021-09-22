@@ -1,7 +1,8 @@
-----
-2021/09/22
-Getting through GitHub
-----
+---
+title: _Getting Through GitHub_
+date: 22-09-2021
+---
+
 2021/09/22 Getting through GitHub
 
 _Life of a Student_
